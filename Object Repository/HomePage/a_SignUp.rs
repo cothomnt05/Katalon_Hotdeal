@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_SignUp</name>
+   <tag></tag>
+   <elementGuidId>40a3993e-88bd-49cb-92ee-c95c6eef6f16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.login-register-helper > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='login-form-popup']/div[4]/p/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e97c80a9-52d1-4057-b73a-7dc11c869786</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>1f56fed5-67bb-4c6f-9ccf-7b1118299fae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dang-ky.html</value>
+      <webElementGuid>edd994c1-c269-4cc2-a983-a7ed5d6194c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ðăng ký ngay</value>
+      <webElementGuid>d54d6106-880d-44ab-a465-37e7835dd3b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login-popup-header&quot;)/li[@class=&quot;show-in-checkout&quot;]/div[@class=&quot;modal-body clearfix&quot;]/form[@id=&quot;login-form-popup&quot;]/div[@class=&quot;form-group&quot;]/p[@class=&quot;login-register-helper&quot;]/a[1]</value>
+      <webElementGuid>f07f8ff3-83cf-4cd2-8fe1-7c734360b023</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='login-form-popup']/div[4]/p/a</value>
+      <webElementGuid>b0bbd2a8-11f6-4b92-a46a-c92bafdc9745</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Ðăng ký ngay')]</value>
+      <webElementGuid>acf45651-f95d-424c-88b3-7b5e3a823a3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ÐĂNG NHẬP'])[2]/following::a[1]</value>
+      <webElementGuid>6efe29d1-c12f-404a-9f6a-fe382430cecb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quên mật khẩu?'])[1]/following::a[1]</value>
+      <webElementGuid>2d75af6a-ce2d-400c-afdf-5e2bfad739d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ðăng ký ngay']/parent::*</value>
+      <webElementGuid>65be8524-6bb9-4805-99f3-dd6495b86270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/dang-ky.html')])[3]</value>
+      <webElementGuid>461d0e2b-c2e7-4e3d-9afa-1bd580936127</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a</value>
+      <webElementGuid>adcf4c57-cde2-46e6-a25a-2f03afa65e09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/dang-ky.html' and (text() = 'Ðăng ký ngay' or . = 'Ðăng ký ngay')]</value>
+      <webElementGuid>42aa7f2b-d436-41d8-a46f-5ba76a56330e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
